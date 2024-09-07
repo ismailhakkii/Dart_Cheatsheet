@@ -1,0 +1,29 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "math_expressions",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/math_expressions-2.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "dart_cheatsheet",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generated": "2024-09-07T14:14:28.193794Z",
+  "generator": "pub",
+  "generatorVersion": "3.5.2",
+  "flutterRoot": "file:///C:/dev/flutter",
+  "flutterVersion": "3.24.2",
+  "pubCache": "file:///C:/Users/Dell/AppData/Local/Pub/Cache"
+}
