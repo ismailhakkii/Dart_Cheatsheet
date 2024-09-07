@@ -2,7 +2,7 @@ import 'dart:io'; // Standart girdi-çıktı için gerekli
 
 void main() {
   // Kullanıcıdan sayı mı metin mi seçeceğini soralım
-  print("Sayı mı, metin mi? (sayı/metin):");
+  print("Sayı mı, metin mi? (sayi/metin):");
   String? secim = stdin.readLineSync(); // Kullanıcıdan seçim al
 
   if (secim == 'sayı') {
