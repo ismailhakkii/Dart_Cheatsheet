@@ -20,10 +20,10 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2024-08-31T13:50:26.074184Z",
+  "generated": "2024-09-07T14:14:28.193794Z",
   "generator": "pub",
-  "generatorVersion": "3.4.1",
+  "generatorVersion": "3.5.2",
   "flutterRoot": "file:///C:/dev/flutter",
-  "flutterVersion": "3.22.1",
+  "flutterVersion": "3.24.2",
   "pubCache": "file:///C:/Users/Dell/AppData/Local/Pub/Cache"
 }
