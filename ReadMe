@@ -1,0 +1,11 @@
+# Dart Cheatsheet
+
+Bu repository, Dart programlama diline yeni başlayanlar veya mevcut bilgilerini tazelemek isteyenler için kapsamlı bir cheatsheet sunar. Dart'ın temel yapılarını, fonksiyon kullanımlarını, sınıflar, veri yapıları ve daha pek çok konuyu kapsayan bu cheatsheet, Dart dilini öğrenmek ve kullanmak isteyen herkes için pratik bir kaynaktır.
+
+## Başlarken
+
+Bu cheatsheet'i kullanmak için, repository'yi lokal bilgisayarınıza klonlayabilir veya direk olarak GitHub üzerinden inceleyebilirsiniz.
+
+```bash
+git clone https://github.com/ismailhakkii/Dart_Cheatsheet/.git
+cd Dart_Cheatsheet
